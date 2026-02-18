@@ -14,9 +14,10 @@ A SQL project analyzing the data engineer job market using real world job postin
 - ✅ **Outcomes:** Delivered **actionable insights** on SQL/Python dominance, cloud trends, and salary patterns
 
 If you only have a minute, review these:
-1. [`01_top_demanded_skills.sql`](./1_EDA/01_top_demanded_skills.sql.sql) – demand analysis with multi-table joins  
+1. [`01_top_demanded_skills.sql`](https://github.com/Kareem5552/sql-data-engineering-eda/blob/main/1_EDA/01_top_demanded_skills.sql.sql) – demand analysis with multi-table joins  
 2. [`02_top_paying_skills.sql`](https://github.com/Kareem5552/sql-data-engineering-eda/blob/main/1_EDA/02_Top_paying_skills.sql) – salary analysis with aggregations  
 3. [`03_optimal_skills.sql`](https://github.com/Kareem5552/sql-data-engineering-eda/blob/main/1_EDA/optimal_skills.sql) – combined demand/salary optimization query
+
 
 ---
 
